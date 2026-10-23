@@ -1,7 +1,6 @@
 # Hi, I'm Cauã 👋
 
-Master statistics student and data scientist at Universidade Estadual de Campinas (UNICAMP). My favorite areas of study/research so far are time series and econometrics, very related with finance quantitative.
-Here I pretend publish some projects and codes from my futures research.
+Master's student in Statistics and data scientist at Universidade Estadual de Campinas (UNICAMP). My main research interests are time series analysis, econometrics, and quantitative finance. This GitHub profile is where I share projects, code, and implementations related to my current and future research.
 
 ### What tools I known
 - Languages: R, Python, SQL
